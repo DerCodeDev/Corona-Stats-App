@@ -1,5 +1,5 @@
 
-# Corna Stats App
+# Corona Stats App
 
 A simple PWA app that show you current Corona case numbers from an API for Germany.
 
